@@ -3,7 +3,7 @@
 
 
 ### Homework 1
-[Here](IE360_HW1_Beyza.html) is my correlation study. (HTML file)
+[Here](https://bu-ie-360.github.io/spring22-beyzaunsal/IE360_HW1_Beyza.html) is my correlation study. (HTML file)
  
 ### Homework 2
 
