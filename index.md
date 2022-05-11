@@ -10,6 +10,8 @@
 ### Homework 2
 [Here](https://bu-ie-360.github.io/spring22-beyzaunsal/IE_360_HW_2-Forecasting.html) is my forecasting study. (HTML file)
 
+[Here](https://bu-ie-360.github.io/spring22-beyzaunsal/IE_360_HW_2-Forecasting.r) is the related R codes.
+
 ### Homework 3
 
 
