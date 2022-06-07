@@ -12,7 +12,9 @@
 
 [Here](https://bu-ie-360.github.io/spring22-beyzaunsal/IE_360_HW_2_Beyza.r) is the related R codes
 
-### Homework 3
+### Term Project
+[Here](https://bu-ie-360.github.io/spring22-beyzaunsal/IE360_PROJECT_REPORT_Final.html) is our project report in Jupyter Notebook. (HTML file)
+
+[Here](https://bu-ie-360.github.io/spring22-beyzaunsal/IE360_PROJECT_REPORT_Final.r) is the related R codes
 
 
-### Homework 4
