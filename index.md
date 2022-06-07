@@ -17,4 +17,6 @@
 
 [Here](https://bu-ie-360.github.io/spring22-beyzaunsal/IE360_PROJECT_REPORT_Final.r) is the related R codes
 
+[Here](https://bu-ie-360.github.io/spring22-beyzaunsal/IE360_PROJECT_REPORT_FINAL.pdf) is the related pdf file
+
 
